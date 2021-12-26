@@ -1,2 +1,2 @@
 # hyperblog
-Practica plazi git Jairo Noguera
+Un blog increíble para el curso de Git y Github de Platzi
